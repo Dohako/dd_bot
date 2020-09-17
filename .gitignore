@@ -1,0 +1,10 @@
+
+*.pickle
+*.txt
+*.ipynb
+test*.py
+*.pkl
+*.idea
+venv/
+Token.py
+settings/
